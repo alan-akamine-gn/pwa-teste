@@ -1,16 +1,47 @@
 {
+    "packageId": "io.github.alan_akamine_gn.twa",
+    "host": "alan-akamine-gn.github.io",
     "name": "PWA-PROJETO",
-    "short_name": "PWA-PROJETO",
-    "icons": [
-        {
-            "src": "./icon.png",
-            "sizes": "144x144"
-        }
-    ],
+    "launcherName": "PWA-PROJETO",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "./?homescreen=true",
+    "themeColor": "#002D44",
+    "navigationColor": "#000000",
+    "navigationColorDark": "#000000",
+    "navigationDividerColor": "#000000",
+    "navigationDividerColorDark": "#000000",
+    "backgroundColor": "#002D44",
+    "enableNotifications": true,
+    "startUrl": "/pwa-teste/?homescreen=true",
+    "iconUrl": "https://cdn-icons-png.flaticon.com/512/3214/3214746.png",
+    "maskableIconUrl": "https://cdn-icons-png.flaticon.com/512/3214/3214746.png",
+    "monochromeIconUrl": "https://cdn-icons-png.flaticon.com/512/3214/3214746.png",
+    "splashScreenFadeOutDuration": 300,
+    "signingKey": {
+      "path": "C:\\Users\\Alan\\Desktop\\teste-pwa\\android.keystore",
+      "alias": "android"
+    },
+    "appVersionName": "1",
+    "appVersionCode": 1,
+    "shortcuts": [],
+    "generatorApp": "bubblewrap-cli",
+    "webManifestUrl": "https://alan-akamine-gn.github.io/pwa-teste/manifest.json",
+    "fallbackType": "customtabs",
+    "features": {},
+    "alphaDependencies": {
+      "enabled": false
+    },
+    "enableSiteSettingsShortcut": true,
+    "isChromeOSOnly": false,
+    "isMetaQuest": false,
+    "fullScopeUrl": "https://alan-akamine-gn.github.io/",
+    "minSdkVersion": 19,
     "orientation": "portrait",
-    "theme_color": "#002d44",
-    "background_color": "#002d44"
-}
+    "fingerprints": [
+      {
+        "value": "AB:C0:99:97:12:CB:0D:2E:B7:D4:C2:6A:A5:81:9B:7E:04:59:13:92:9A:E8:8D:F5:2B:FD:CA:6F:7B:2D:28:72"
+      }
+    ],
+    "additionalTrustedOrigins": [],
+    "retainedBundles": [],
+    "appVersion": "1"
+  }
