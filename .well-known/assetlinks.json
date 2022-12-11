@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "io.github.alan_akamine_gn.twa",
+                     "sha256_cert_fingerprints": ["AB:C0:99:97:12:CB:0D:2E:B7:D4:C2:6A:A5:81:9B:7E:04:59:13:92:9A:E8:8D:F5:2B:FD:CA:6F:7B:2D:28:72"] }
+      }
+]
