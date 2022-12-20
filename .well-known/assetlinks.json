@@ -1,6 +1,6 @@
 [{
         "relation": ["delegate_permission/common.handle_all_urls"],
-        "target" : { "namespace": "android_app", "package_name": "app.netlify.spiffy_sherbet_dbfc76.twa",
-                     "sha256_cert_fingerprints": ["D5:B1:0F:C0:11:7D:B4:3A:80:D3:57:3F:A2:89:53:8B:69:6A:A7:5B:F7:14:AC:3F:3F:D5:7C:CF:31:53:19:0B"] }
+        "target" : { "namespace": "android_app", "package_name": "io.github.alan_akamine_gn.twa",
+                     "sha256_cert_fingerprints": ["11:D4:1C:FE:9F:39:02:DB:34:1A:AA:20:7E:A9:BC:5D:AC:3E:1C:64:85:F9:93:C4:13:29:4E:97:F2:78:44:55"] }
       }
 ]
